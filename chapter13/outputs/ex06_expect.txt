@@ -1,0 +1,4 @@
+gamma = beta = 0 : <H> = 134.50
+exact (Statevector): 59.36
+exact (fastsim)    : 59.36
+1000 shots: mean = 60.90, standard error = 1.30

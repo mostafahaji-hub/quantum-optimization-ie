@@ -1,0 +1,3 @@
+gates: {'rzz': 22, 'h': 9, 'rz': 9, 'rx': 9}   depth: 16
+same state as QAOAAnsatz (up to global phase): True
+largest probability difference vs fastsim: 6.9e-17

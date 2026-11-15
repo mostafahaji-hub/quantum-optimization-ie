@@ -1,0 +1,14 @@
+exact: P(optimum) = 0.0216, P(feasible) = 0.1212
+rank  Qiskit     book       QUBO  shots  meaning
+   1  001010100  001010100      5     28  J3J2J1 (5)
+   2  010001100  001100010     11     24  J2J3J1 (11)
+   3  001100010  010001100      8     21  J3J1J2 (8)
+   4  001010000  000010100     40     20  infeasible
+   5  100001010  010100001     13     20  J2J1J3 (13)
+   6  100010001  100010001     12     19  J1J2J3 (12)
+   7  010100001  100001010      9     16  J1J3J2 (9)
+   8  010001000  000100010     46     16  infeasible
+   9  000100001  100001000     46     15  infeasible
+  10  000001100  001100000     45     15  infeasible
+feasible shots: 128 of 1000; infeasible: 872
+different strings seen: 215

@@ -1,0 +1,7 @@
+method                                         P(opt)  shots99
+random 9-bit string (= QAOA with gamma = 0)    0.0020     2356
+QAOA p = 1 (Ex. 13.17)                         0.0216      211
+QAOA p = 4 (Ex. 13.19)                         0.1213       36
+random order of the 3 jobs (classical)         0.1667       26
+Grover, compact code, k = 2 (Ch. 12)           0.9450        2
+tuning p = 1 on hardware: (1517 + 35) evaluations x 1000 shots = 1,552,000 shots

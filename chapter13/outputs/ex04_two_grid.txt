@@ -1,0 +1,4 @@
+evaluations: 1891
+best grid point: gamma = 1.8326, beta = 0.7330
+<f> = 4.495   (uniform start: 10.000)
+probabilities: {'00': 0.058, '10': 0.872, '01': 0.069, '11': 0.001}

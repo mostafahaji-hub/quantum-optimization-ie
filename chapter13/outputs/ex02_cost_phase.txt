@@ -1,0 +1,8 @@
+SparsePauliOp(['II', 'IZ', 'ZI', 'ZZ'],
+              coeffs=[10.+0.j, -2.+0.j, -3.+0.j,  5.+0.j])
+book  f(x)  -g*(f-f00)  circuit phase (relative to 00)
+ 00     10       0.00       0.00
+ 10      4       0.60       0.60
+ 01      6       0.40       0.40
+ 11     20      -1.00      -1.00
+off-diagonal entries all zero: True

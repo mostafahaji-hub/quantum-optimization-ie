@@ -1,0 +1,3 @@
+coarse 21 x 19: best <H> =  79.67 at gamma = 0.3142, beta = -0.6981 (-40 deg)
+fine   41 x 37: best <H> =  56.71 at gamma = 0.0150, beta = -0.4363 (-25 deg)
+fine map: min 56.7, max 326.5

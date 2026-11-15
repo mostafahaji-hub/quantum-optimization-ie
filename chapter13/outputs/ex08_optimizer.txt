@@ -1,0 +1,7 @@
+from the best grid point: gamma = 0.0160, beta = -0.4123, <H> = 56.33, evaluations = 35
+five random starts (gamma, beta):
+  (0.018,  0.440) -> (0.0160, -0.412)  <H> =  56.33  evaluations = 46
+  (0.047, -0.407) -> (0.0160, -0.412)  <H> =  56.33  evaluations = 55
+  (0.035,  0.913) -> (0.0385,  2.069)  <H> = 104.51  evaluations = 46
+  (0.091, -1.014) -> (0.0948, -0.321)  <H> = 132.93  evaluations = 37
+  (0.065, -0.634) -> (0.0385, -1.072)  <H> = 104.51  evaluations = 55
