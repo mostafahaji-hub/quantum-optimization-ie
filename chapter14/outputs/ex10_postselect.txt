@@ -1,0 +1,12 @@
+p  kept shots  P(opt|feas): ideal noisy   mean length: ideal noisy
+1         726               0.336 0.324               27.94 28.04
+2         882               0.342 0.314               27.86 27.96
+3        1034               0.365 0.350               27.80 27.90
+4        1031               0.374 0.356               27.78 27.92
+p = 4, shots of each tour (out of 10000):
+  ADCBA (26)   191
+  ABCDA (26)   176
+  ADBCA (27)   169
+  ACBDA (27)   167
+  ACDBA (31)   165
+  ABDCA (31)   163

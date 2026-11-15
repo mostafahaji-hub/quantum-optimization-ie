@@ -1,0 +1,13 @@
+rank  Qiskit     book       QUBO  shots  meaning
+   1  001000100  001000100     49     25  infeasible
+   2  000010001  100010000     52     21  infeasible
+   3  001010000  000010100     54     19  infeasible
+   4  000100001  100001000     57     19  infeasible
+   5  000001010  010100000     59     18  infeasible
+   6  001010100  001010100     26     18  ADCBA (26)
+   7  010000001  100000010     49     18  infeasible
+   8  000000100  001000000     85     17  infeasible
+   9  001100010  010001100     27     17  ADBCA (27)
+  10  010001100  001100010     31     17  ACDBA (31)
+feasible shots: 92 of 1000; optimal tour: 33
+different strings seen: 193

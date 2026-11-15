@@ -1,0 +1,9 @@
+nearest neighbour from A: ADBCA 27
+method                                        P(opt)  shots99
+random 9-bit string (= QAOA with gamma = 0)   0.0039     1177
+QAOA p = 1, ideal (Ex. 14.8)                  0.0317      143
+QAOA p = 4, ideal (Ex. 14.10)                 0.1708       25
+QAOA p = 4, FakeFez raw (Ex. 14.13)           0.0367      124
+random tour (classical, 2 of 6)               0.3333       12
+Grover, compact code, k = 1 (Ch. 12)          1.0000        1
+tuning p = 1 on hardware: (1517 + 27) evaluations x 1000 shots = 1,544,000 shots

@@ -1,0 +1,5 @@
+cities qubits  ZZ terms  CZ (p=1)  depth  feasible share
+     4      9        30       129    267  1.17e-02
+     5     16        84       486    614  3.66e-04
+     6     25       180      1161   1179  3.58e-06
+     7     36       330      2265   1924  1.05e-08

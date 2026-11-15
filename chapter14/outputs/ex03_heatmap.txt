@@ -1,0 +1,2 @@
+coarse 21 x 19: best gamma = 0.1571, beta = -1.0472, <H> = 107.06
+fine 41 x 37: best gamma = 0.0150, beta = -0.4363, <H> = 70.66

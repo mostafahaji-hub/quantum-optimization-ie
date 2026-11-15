@@ -1,0 +1,12 @@
+Pauli terms: 40   offset: 162.0
+mean of all 512 QUBO values: 162.0
+feasible strings: 6  of 512
+001010100     26  ADCBA (26)
+100010001     26  ABCDA (26)
+010001100     27  ADBCA (27)
+010100001     27  ACBDA (27)
+001100010     31  ACDBA (31)
+100001010     31  ABDCA (31)
+010000001     48  infeasible
+010000100     48  infeasible
+cheapest infeasible: 48.0   most expensive string: 606.0
