@@ -1,0 +1,6 @@
+feasible strings: 6 of 512 = 1.17%
+3 jobs:  9 qubits,      6 feasible of 2^9, fraction 1.2e-02
+4 jobs: 16 qubits,     24 feasible of 2^16, fraction 3.7e-04
+5 jobs: 25 qubits,    120 feasible of 2^25, fraction 3.6e-06
+6 jobs: 36 qubits,    720 feasible of 2^36, fraction 1.0e-08
+8 jobs: 64 qubits,  40320 feasible of 2^64, fraction 2.2e-15

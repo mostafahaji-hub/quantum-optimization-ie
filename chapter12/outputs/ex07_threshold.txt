@@ -1,0 +1,7 @@
+ T  M  k  theory  measured  marked orders
+13  6  0  0.750    750     (all six orders)
+11  4  1  0.500    511     J1J3J2 J2J3J1 J3J1J2 J3J2J1
+ 9  3  1  0.844    843     J1J3J2 J3J1J2 J3J2J1
+ 8  2  1  1.000   1000     J3J1J2 J3J2J1
+ 5  1  2  0.945    948     J3J2J1
+ 4  0  1  0.000      0     (none)

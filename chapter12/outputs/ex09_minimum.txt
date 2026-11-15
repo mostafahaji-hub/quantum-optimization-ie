@@ -1,0 +1,9 @@
+start : 000 J1J2J3  T = 12
+k = 0: measured 000 -> no improvement
+k = 1: measured 100 -> better! T = 8
+k = 0: measured 001 -> no improvement
+k = 1: measured 101 -> better! T = 5
+k = 0: measured 001 -> no improvement
+k = 0: measured 010 -> no improvement
+k = 1: measured 110 -> no improvement
+result: 101 J3J2J1 cost 5 | oracle calls 3, shots 8

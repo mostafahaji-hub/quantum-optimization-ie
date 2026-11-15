@@ -1,0 +1,4 @@
+shop: optimum found 77.2%, random guessing 54.1%
+      mean oracle calls 1.38, mean shots 6.27
+TSP : optimum found 90.3%, random guessing 78.0%
+      mean oracle calls 1.25, mean shots 5.60

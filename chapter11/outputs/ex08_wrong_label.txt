@@ -1,0 +1,4 @@
+max error, correct H: 0.0
+max error, wrong H  : 23.0
+strings with a wrong energy: 464 of 512
+ground energy, correct vs wrong: 5.0 5.0

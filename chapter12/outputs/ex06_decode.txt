@@ -1,0 +1,9 @@
+Qiskit  book  order   cost  shots
+ 101    101   J3J2J1     5  948
+ 110    011   J2J3J1    11  11
+ 001    100   J3J1J2     8  11
+ 011    110   unused     -  8
+ 111    111   unused     -  7
+ 100    001   J1J3J2     9  5
+ 000    000   J1J2J3    12  5
+ 010    010   J2J1J3    13  5

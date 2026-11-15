@@ -1,0 +1,7 @@
+<H> uniform superposition: 134.50
+offset (identity term)   : 134.50
+mean QUBO of 512 strings : 134.50
+1000 shots: mean energy 135.7, feasible shots 9, best seen 5
+   001010100 -> [3, 2, 1] energy 5  (2 shots)
+   010001100 -> [3, 1, 2] energy 8  (4 shots)
+   100001010 -> [1, 3, 2] energy 9  (3 shots)

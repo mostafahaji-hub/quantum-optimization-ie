@@ -1,0 +1,4 @@
+case      depth  2q-gates  ideal  noisy (1000 shots)
+shop k=1     85        21  0.781  0.661
+shop k=2    169        45  0.945  0.738
+TSP  k=1    129        33  1.000  0.852

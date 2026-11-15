@@ -1,0 +1,7 @@
+qubits  2q-gates per round  best k  2q-gates in total
+     3                  21       2                 42
+     4                  61       3                183
+     5                 135       4                540
+     6                 342       6              2,052
+     7                 542       8              4,336
+     8                 867      12             10,404

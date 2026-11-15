@@ -1,0 +1,4 @@
+001010100: QUBO     5 = cost   5 + penalty    0  order [3, 2, 1]
+000010100: QUBO    40 = cost   0 + penalty   40  order None
+011010100: QUBO    47 = cost   7 + penalty   40  order None
+000000000: QUBO   120 = cost   0 + penalty  120  order None

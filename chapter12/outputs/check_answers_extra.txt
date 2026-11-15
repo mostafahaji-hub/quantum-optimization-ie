@@ -1,0 +1,28 @@
+Ex 12.13: max_fail = 5
+shop: optimum found 94.8%, random guessing 73.6%
+      mean oracle calls 3.34, mean shots 9.33
+TSP : optimum found 97.8%, random guessing 89.3%
+      mean oracle calls 2.93, mean shots 7.90
+Ex 12.14: growth factor 1.5
+shop: optimum found 81.5%, random guessing 55.9%
+      mean oracle calls 2.05, mean shots 6.41
+TSP : optimum found 88.3%, random guessing 78.4%
+      mean oracle calls 1.77, mean shots 5.53
+Ex 12.14: growth factor 2
+shop: optimum found 81.5%, random guessing 55.9%
+      mean oracle calls 2.05, mean shots 6.41
+TSP : optimum found 88.3%, random guessing 78.4%
+      mean oracle calls 1.77, mean shots 5.53
+Ex 12.15: default_rng(2)
+start : 000 J1J2J3  T = 12
+k = 0: measured 000 -> no improvement
+k = 1: measured 100 -> better! T = 8
+k = 0: measured 001 -> no improvement
+k = 0: measured 110 -> no improvement
+k = 0: measured 001 -> no improvement
+result: 100 J3J1J2 cost 8 | oracle calls 1, shots 6
+Ex 12.17: optimization_level = 3
+case      depth  2q-gates  ideal  noisy (1000 shots)
+shop k=1     67        17  0.781  0.685
+shop k=2    139        39  0.945  0.795
+TSP  k=1    104        29  1.000  0.904

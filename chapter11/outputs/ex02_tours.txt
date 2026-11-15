@@ -1,0 +1,6 @@
+A-B-C-D-A  100 010 001  back ABCDA  length 26
+A-B-D-C-A  100 001 010  back ABDCA  length 31
+A-C-B-D-A  010 100 001  back ACBDA  length 27
+A-C-D-B-A  001 100 010  back ACDBA  length 31
+A-D-B-C-A  010 001 100  back ADBCA  length 27
+A-D-C-B-A  001 010 100  back ADCBA  length 26

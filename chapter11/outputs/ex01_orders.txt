@@ -1,0 +1,6 @@
+J1J2J3  100 010 001  back [1, 2, 3]  cost 12
+J1J3J2  100 001 010  back [1, 3, 2]  cost 9
+J2J1J3  010 100 001  back [2, 1, 3]  cost 13
+J2J3J1  001 100 010  back [2, 3, 1]  cost 11
+J3J1J2  010 001 100  back [3, 1, 2]  cost 8
+J3J2J1  001 010 100  back [3, 2, 1]  cost 5

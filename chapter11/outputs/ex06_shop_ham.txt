@@ -1,0 +1,7 @@
+qubits: 9   Pauli terms: 32
+   IIIIIIIII   134.50
+   IIIIIIIIZ   -20.75
+   IIIIIIIZI   -20.75
+   IIIIIIZII   -22.50
+max |<x|H|x> - QUBO| over 512 strings: 0.0
+ground state: Qiskit 001010100 -> book 001010100 -> order [3, 2, 1], energy 5

@@ -1,0 +1,4 @@
+prepared 001010100 | Qiskit prints 001010100
+   read directly: [3, 2, 1] cost 5 | with to_book: [3, 2, 1] cost 5
+prepared 010001100 | Qiskit prints 001100010
+   read directly: [2, 3, 1] cost 11 | with to_book: [3, 1, 2] cost 8

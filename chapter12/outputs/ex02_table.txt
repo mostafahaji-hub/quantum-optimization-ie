@@ -1,0 +1,9 @@
+book  Qiskit  order   cost | tour   length
+ 000   000   J1J2J3   12  | ABCDA   26
+ 001   100   J1J3J2    9  | ABDCA   31
+ 010   010   J2J1J3   13  | ACBDA   27
+ 011   110   J2J3J1   11  | ACDBA   31
+ 100   001   J3J1J2    8  | ADBCA   27
+ 101   101   J3J2J1    5  | ADCBA   26
+ 110   011   unused       |
+ 111   111   unused       |

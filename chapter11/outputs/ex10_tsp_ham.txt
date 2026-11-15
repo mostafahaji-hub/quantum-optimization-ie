@@ -1,0 +1,9 @@
+Pauli terms: 40   offset: 162.0
+max error over 512 strings: 0.0
+Qiskit 001010100 -> book 001010100 -> ADCBA  energy 26
+Qiskit 100010001 -> book 100010001 -> ABCDA  energy 26
+Qiskit 001100010 -> book 010001100 -> ADBCA  energy 27
+Qiskit 100001010 -> book 010100001 -> ACBDA  energy 27
+Qiskit 010001100 -> book 001100010 -> ACDBA  energy 31
+Qiskit 010100001 -> book 100001010 -> ABDCA  energy 31
+Qiskit 001000010 -> book 010000100 -> infeasible  energy 48

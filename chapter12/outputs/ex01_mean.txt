@@ -1,0 +1,4 @@
+after H       : 0.3536 0.3536
+after oracle  : -0.3536 0.3536
+after diffuser: 0.8839 0.1768
+P(101) = 0.781
