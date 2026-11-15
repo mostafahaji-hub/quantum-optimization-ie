@@ -1,0 +1,4 @@
+482 zeros: p-value = 0.2684 -> no evidence
+516 zeros: p-value = 0.3269 -> no evidence
+530 zeros: p-value = 0.0620 -> no evidence
+560 zeros: p-value = 0.0002 -> looks biased

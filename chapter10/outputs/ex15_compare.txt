@@ -1,0 +1,2 @@
+hand     TVD 0.0500  fidelity 0.9500  (qiskit 0.9500)
+FakeFez  TVD 0.0280  fidelity 0.9719  (qiskit 0.9719)

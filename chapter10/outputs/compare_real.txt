@@ -1,0 +1,5 @@
+no real_counts.json: fake backend only
+prepare 0  fake TVD 0.009
+prepare 1  fake TVD 0.014
+coin       fake TVD 0.016
+bell       fake TVD 0.028

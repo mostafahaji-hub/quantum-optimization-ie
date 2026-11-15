@@ -1,0 +1,2 @@
+fake_kingston  qubits [20, 21]  TVD [0.002, 0.005, 0.013, 0.016]
+fake_torino    qubits [92, 99]  TVD [0.003, 0.009, 0.014, 0.022]

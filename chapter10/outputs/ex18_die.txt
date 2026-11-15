@@ -1,0 +1,10 @@
+000 -> 0 -> J1J2J3 cost 12 : 107
+001 -> 1 -> J1J3J2 cost  9 : 137
+010 -> 2 -> J2J1J3 cost 13 : 136
+011 -> 3 -> J2J3J1 cost 11 : 121
+100 -> 4 -> J3J1J2 cost  8 : 123
+101 -> 5 -> J3J2J1 cost  5 : 127
+110 -> 6 -> rejected       : 115
+111 -> 7 -> rejected       : 134
+accepted 751/1000, mean cost 9.63
+optimum J3J2J1 seen 127 times

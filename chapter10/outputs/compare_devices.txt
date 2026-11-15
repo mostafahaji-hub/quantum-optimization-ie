@@ -1,0 +1,6 @@
+TVD from ideal         fez  marrakesh   kingston     torino
+prepare 0            0.009      0.009      0.006      0.144
+prepare 1            0.014      0.013      0.013      0.177
+coin                 0.016      0.016      0.016      0.023
+bell                 0.028      0.020      0.164      0.166
+coin p-value         0.327      0.327      0.327      0.155

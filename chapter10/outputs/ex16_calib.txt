@@ -1,0 +1,5 @@
+T1 = 48.8 us,  T2 = 42.4 us
+sx      (0,)   error 0.00076  duration    24 ns
+cz      (0, 1) error 0.01016  duration    84 ns
+measure (0,)   error 0.01147  duration  1560 ns
+neighbours of qubit 0: [1]

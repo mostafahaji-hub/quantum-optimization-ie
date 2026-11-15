@@ -1,0 +1,6 @@
+n =  2: correct 1933/2000 = 0.967   distinct strings: 4
+n =  4: correct 1884/2000 = 0.942   distinct strings: 14
+n =  6: correct 1856/2000 = 0.928   distinct strings: 24
+n =  8: correct 1738/2000 = 0.869   distinct strings: 39
+n = 10: correct 1713/2000 = 0.857   distinct strings: 50
+n = 12: correct 1698/2000 = 0.849   distinct strings: 63

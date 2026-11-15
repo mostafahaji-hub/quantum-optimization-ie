@@ -1,0 +1,13 @@
+native: ['cz', 'id', 'measure', 'rz', 'sx', 'x']
+coin before: {'h': 1, 'measure': 1}
+coin after : {'rz': 2, 'sx': 1, 'measure': 1}  depth 4
+   physical qubits: [0]
+bell before: {'measure': 2, 'h': 1, 'cx': 1}
+bell after : {'rz': 6, 'sx': 3, 'measure': 2, 'cz': 1}  depth 8
+   physical qubits: [0, 1]
+global phase: π/4
+         ┌─────────┐┌────┐┌─────────┐┌─┐
+q_0 -> 0 ┤ Rz(π/2) ├┤ √X ├┤ Rz(π/2) ├┤M├
+         └─────────┘└────┘└─────────┘└╥┘
+    c: 1/═════════════════════════════╩═
+                                      0 
