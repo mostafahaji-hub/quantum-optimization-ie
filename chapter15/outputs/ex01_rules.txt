@@ -1,0 +1,9 @@
+small shop SPT  [1, 2, 3] 12
+small shop EDD  [1, 3, 2] 9
+small shop WSPT [2, 3, 1] 11
+8-job shop SPT  [8, 5, 1, 4, 6, 7, 2, 3] 127
+8-job shop EDD  [3, 1, 4, 7, 5, 8, 2, 6] 110
+8-job shop WSPT [5, 7, 4, 8, 6, 3, 1, 2] 79
+small TSP nearest neighbour from A: ADBCA 27
+8-city TSP nearest neighbour from city 0: 28.3
+8-city TSP best of 8 starts: 25.0 all: [28.3, 26.0, 27.3, 25.0, 29.7, 29.2, 28.4, 26.0]

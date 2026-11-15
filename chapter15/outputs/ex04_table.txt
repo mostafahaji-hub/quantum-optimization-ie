@@ -1,0 +1,29 @@
+--- shop (shots or evaluations for 99 percent)
+  enumerate all orders/tours           6
+  simple rule (EDD/WSPT or NN)         never
+  best of all rules / all starts       never
+  random order/tour                    26
+  random on the 9-bit QUBO             2350
+  SA on the 9-bit QUBO                 775
+  GA on the 9-bit QUBO                 1600
+  QEA on the 9-bit QUBO                1900
+  KA on the 9-bit QUBO                 1000
+  QAOA p=1 ideal (Ch. 13)              211
+  QAOA p=4 ideal (Ch. 13)              36
+  QAOA p=4 FakeFez (Ch. 13)            142
+  Grover k=2, table oracle (Ch. 12)    2
+--- tsp (shots or evaluations for 99 percent)
+  enumerate all orders/tours           6
+  simple rule (EDD/WSPT or NN)         never
+  best of all rules / all starts       4
+  random order/tour                    12
+  random on the 9-bit QUBO             1150
+  SA on the 9-bit QUBO                 400
+  GA on the 9-bit QUBO                 900
+  QEA on the 9-bit QUBO                1000
+  KA on the 9-bit QUBO                 600
+  QAOA p=1 ideal (Ch. 14)              143
+  QAOA p=4 ideal (Ch. 14)              25
+  QAOA p=4 FakeFez (Ch. 14)            124
+  Grover k=1, table oracle (Ch. 12)    1
+extra cost of QAOA, tuning p=1 on hardware: shop ~1.55 million shots (Ch. 13), tsp 1,544,000 (Ch. 14)
