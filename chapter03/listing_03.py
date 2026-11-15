@@ -1,0 +1,6 @@
+# Chapter 3, code listing 3 (in order of appearance)
+# Run after listing_02.py (it needs: import numpy as np)
+psi = np.array([1, 0])
+H = np.array([[1, 1], [1, -1]]) / np.sqrt(2)
+print(H @ psi)
+print(np.abs(H @ psi)**2)
