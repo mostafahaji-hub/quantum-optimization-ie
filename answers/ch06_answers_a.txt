@@ -1,0 +1,20 @@
+6.1 P=0.1: theta 18.43 deg, Ry angle 36.87 deg
+6.1 P=0.3: theta 33.21 deg, Ry angle 66.42 deg
+6.1 P=0.9: theta 71.57 deg, Ry angle 143.13 deg
+6.2 P(1): [0.117, 0.5, 0.883, 0.9924] max [('0011', 0.3869026658682581), ('0111', 0.3869026658682579)] min [('1100', 5.197191979736261e-05), ('1000', 5.197191979736264e-05)]
+6.3 angles (70, 20, 70) P(101) 0.6885 E[profit] 7.914
+6.3 angles (80, 10, 80) P(101) 0.9122 E[profit] 9.414
+6.4 generations 7 angle 80
+6.4 max P 0.999600053330489
+6.5 by profit [2, 3, 8] 20 30 RPD 11.8
+6.6 add=True [0, 0, 1, 0, 0, 1, 0, 1] 30  add=False [0, 0, 1, 0, 0, 1, 0, 1] 30
+6.7 penalty: optimum 18 of 20, mean 33.9
+6.8 pop 5 gens 80: optimum 15 of 20, mean 33.50
+6.8 pop 10 gens 40: optimum 20 of 20, mean 34.00
+6.8 pop 20 gens 20: optimum 20 of 20, mean 34.00
+6.10 PBIL: optimum 10 of 20, mean 32.2
+6.11 Han-Kim table (0.01 pi, only when x worse): optimum 20 of 20
+6.12 keys [3, 1, 0] order [3, 2, 1]
+6.13 k=2: P(tie among 8 keys) = 1.0000
+6.13 k=3: P(tie among 8 keys) = 0.9976
+6.13 k=5: P(tie among 8 keys) = 0.6143

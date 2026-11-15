@@ -1,0 +1,6 @@
+6.21 budgets (93,19): optimum 226, greedy 216, QEA mean 226.0, hits 10/10
+6.22 p=[np.int64(15), np.int64(8), np.int64(13), np.int64(5), np.int64(18), np.int64(3), np.int64(6), np.int64(13), np.int64(2), np.int64(10)]: LPT 47, optimum 47 (lower bound 47), QEA mean 47.0 best 47
+6.23 angles (deg): [17. 13. 73. 73. 13. 73. 13. 21.]
+6.23 string 00110100: exact 0.522, circuit samples 0.514, classical observations 0.507
+6.23 string 00110101: exact 0.077, circuit samples 0.075, classical observations 0.085
+6.23 string 10110100: exact 0.049, circuit samples 0.047, classical observations 0.044

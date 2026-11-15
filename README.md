@@ -47,6 +47,8 @@ All hardware results in the book come from IBM's simulators and from calibration
 | chapter13 | QAOA for the Single-Machine Workshop |
 | chapter14 | QAOA for the TSP, and Real Hardware |
 | chapter15 | Quantum versus Heuristics, Head to Head |
+| appendix | Appendices A and B (Python as needed; installation and versions) |
+| answers | Programs that verify the answers to the exercises of Chapters 1 to 11 (Chapters 12 to 15 keep `check_answers.py` in their own folders) |
 
 ## License
 

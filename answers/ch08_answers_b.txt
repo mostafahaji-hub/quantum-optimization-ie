@@ -1,0 +1,11 @@
+8.20 lam 10: min 60 feasible False (optimum by enumeration 170)
+8.20 lam 20: min 103 feasible False (optimum by enumeration 170)
+8.20 lam 40: min 155 feasible False (optimum by enumeration 170)
+8.20 lam 60: min 170 feasible True (optimum by enumeration 170)
+8.20 lam 80: min 170 feasible True (optimum by enumeration 170)
+8.20 lam 100: min 170 feasible True (optimum by enumeration 170)
+8.20 flow [[10, 3, 3], [5, 10, 1], [2, 6, 2]] dist [[5, 4, 2], [2, 2, 7], [9, 9, 7]]
+8.23 KA 100000 evals: [37.3, 28.4, 34.9, 26.8, 35.8]  (4 s)
+8.23 GA 100000 evals: [28.9, 31.5, 29.9, 27.2, 28.4]  (14 s)
+8.23 QEA 100000 evals: [35.8, 32.6, 36.5, 35.2, 38.7]  (21 s)
+8.24 GA + swap mutation: [25.2, 25.0, 25.1, 25.1, 25.2, 25.0, 25.0, 25.0, 25.1, 25.0] mean 25.07  optimum hits 5

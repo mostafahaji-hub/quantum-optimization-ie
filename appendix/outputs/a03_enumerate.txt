@@ -1,0 +1,7 @@
+J1J2J3: 12
+J1J3J2:  9
+J2J1J3: 13
+J2J3J1: 11
+J3J1J2:  8
+J3J2J1:  5
+best: J3J2J1 with cost 5

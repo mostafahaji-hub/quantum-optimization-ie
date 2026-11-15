@@ -1,0 +1,29 @@
+5.7 N=16 M=1: theta 14.48 deg, k 3, P 0.9613
+5.7 N=64 M=4: theta 14.48 deg, k 3, P 0.9613
+5.7 N=1024 M=1: theta 1.79 deg, k 25, P 0.9995
+5.7 N=1024 M=10: theta 5.67 deg, k 7, P 0.9926
+5.8 T=9: M=3 k=1 P=0.8437  (k=1: 0.8438)
+5.8 T=11: M=4 k=0 P=0.5000  (k=1: 0.5000)
+5.8 T=12: M=5 k=0 P=0.6250  (k=1: 0.1562)
+5.9 M=5,N=8: k=1 P 0.1562  k=0 0.625
+5.10 P(101) 0.2812  P(110)+P(111) 0.5625
+5.11 {'00': 0.25, '01': 0.25, '10': 0.25, '11': 0.25}
+5.12/13 costs [3, 5, 4, 6] budget 8: good ['1010'] M=1 N=16 k=3 P=0.9613
+5.12/13 costs [3, 5, 4, 6, 2] budget 8: good ['00011', '00101', '01001', '10001', '10100'] M=5 N=32 k=1 P=0.8813
+5.14 optimum found 19 of 20; mean oracle calls 7.15
+5.15 TSP optimum found 19 of 20; mean calls 6.7
+5.16 n=8: classical 0.0202 s, Grover 0.158 s
+5.16 n=9: classical 0.181 s, Grover 0.473 s
+5.16 n=10: classical 1.81 s, Grover 1.5 s
+5.16 n=12: classical 240 s, Grover 17.2 s
+5.16 n=14: classical 4.36e+04 s, Grover 232 s
+5.17/18 a=2 N=15: seq [1, 2, 4, 8, 1, 2, 4, 8] period 4 gcds (3, 5)
+5.17/18 a=2 N=21: seq [1, 2, 4, 8, 16, 11, 1, 2] period 6 gcds (7, 3)
+5.17/18 a=14 N=15: seq [1, 14, 1, 14, 1, 14, 1, 14] period 2 gcds (1, 15)
+5.17 a=2 N=21 FFT peaks (top 5): [np.int64(0), np.int64(10), np.int64(11), np.int64(53), np.int64(54)]
+5.20 k=0: good 0.2500, each other 0.2500
+5.20 k=1: good 0.6875, each other 0.1875
+5.20 k=2: good 0.9531, each other 0.0781
+5.20 k=3: good 0.9805, each other -0.0508
+5.22 feasible ['010', '011', '100', '101'] {'010': 5, '011': 7, '100': 11, '101': 13}
+5.23 best portfolios [(15, 9, '1010'), (14, 9, '1101'), (12, 8, '0110'), (11, 7, '1100')]

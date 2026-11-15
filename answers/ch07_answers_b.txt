@@ -1,0 +1,11 @@
+7.9 KA    10000 evals, 5 runs: mean 164.0 best 164  (1 s)
+7.9 QKA   10000 evals, 5 runs: mean 164.0 best 164  (3 s)
+7.9 GA    10000 evals, 5 runs: mean 164.8 best 164  (4 s)
+7.9 QEA   10000 evals, 5 runs: mean 178.8 best 166  (7 s)
+7.9 QIGA  10000 evals, 5 runs: mean 167.0 best 164  (11 s)
+7.9 QTS   10000 evals, 5 runs: mean 167.8 best 165  (12 s)
+7.9 QPSO  10000 evals, 5 runs: mean 186.8 best 164  (13 s)
+7.13 map also for the middle group: mean 164.2 best 164 worst 166
+7.14 QEA with 8 genes per key: mean 185.3 best 171
+7.15 GA + local search (3000 evals): mean 165.6 best 164
+7.15 QEA + local search (3000 evals): mean 167.8 best 165  (19 s)

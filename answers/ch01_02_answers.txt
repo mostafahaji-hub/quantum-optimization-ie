@@ -1,0 +1,99 @@
+--- Chapter 1
+1.1 lambda 550 nm: E = 3.616e-19 J = 2.26 eV
+1.1 lambda 300 nm: E = 6.630e-19 J = 4.14 eV
+1.1 lambda 700 nm: E = 2.841e-19 J = 1.78 eV
+1.1 lambda 450 nm: E = 4.420e-19 J = 2.76 eV
+1.2 potassium red  E=1.78 eV -> no electron
+1.2 potassium blue E=2.76 eV -> KEmax 0.46 eV
+1.2 potassium UV   E=4.14 eV -> KEmax 1.84 eV
+1.2 zinc      red  E=1.78 eV -> no electron
+1.2 zinc      blue E=2.76 eV -> no electron
+1.2 zinc      UV   E=4.14 eV -> no electron
+1.3 10.4 mm; 13.000000000000002 mm; d = 0.195 mm
+1.4 (0.800,0.600) sum=1.000 factor=1.0000 angle=36.87
+1.4 (0.500,0.500) sum=0.500 factor=1.4142 angle=45.00
+1.4 (0.707,-0.707) sum=1.000 factor=1.0000 angle=-45.00
+1.4 (0.300,0.400) sum=0.250 factor=2.0000 angle=53.13
+1.6 theta  0: 0.00000
+1.6 theta 15: 0.03125
+1.6 theta 30: 0.09375
+1.6 theta 45: 0.12500
+1.6 theta 60: 0.09375
+1.6 theta 75: 0.03125
+1.6 theta 90: 0.00000
+1.7 four filters: 0.21093750000000008
+1.7 N=2 steps: 0.125
+1.7 N=3 steps: 0.2109
+1.7 N=10 steps: 0.3903
+1.7 N=100 steps: 0.4878
+1.8 max classical wins of 4: 3  strategies: 16
+1.9 mean 300 sd 8.66 z 4.62 quantum mean 341.59999999999997
+1.11 0.4 0.5 0.6
+1.12 tmax nm 0.6643856189774725  P(1 nm, 0.05) 9.5367431640625e-07
+1.13 1.9 eV -> 653 nm
+1.13 2.3 eV -> 539 nm
+1.13 3.1 eV -> 400 nm
+1.13 constant 1241.573033707865
+1.14 sd 0.03125  N 2500.0
+1.15 n= 2 n!=         2 tours=         0.5
+1.15 n= 3 n!=         6 tours=         1.0
+1.15 n= 4 n!=        24 tours=         3.0
+1.15 n= 5 n!=       120 tours=        12.0
+1.15 n= 6 n!=       720 tours=        60.0
+1.15 n= 7 n!=     5,040 tours=       360.0
+1.15 n= 8 n!=    40,320 tours=     2,520.0
+1.15 n= 9 n!=   362,880 tours=    20,160.0
+1.15 n=10 n!= 3,628,800 tours=   181,440.0
+1.15 n=11 n!=39,916,800 tours= 1,814,400.0
+1.15 n=12 n!=479,001,600 tours=19,958,400.0
+1.15 n=12 times: shop 479.0016 s; TSP 19.958399999999997 s
+1.15 n 15 TSP years 0.0013811516349809885
+1.15 n 16 TSP years 0.020717274524714828
+1.15 n 17 TSP years 0.33147639239543725
+1.15 n 18 TSP years 5.635098670722432
+1.15 n 19 TSP years 101.4317760730038
+1.16 2^300 = 2.04e+90
+--- Chapter 2
+2.1 J1J2J3 TWT, wC, Lmax, nTardy = (12, 44, 4, 1)
+2.1 J1J3J2 TWT, wC, Lmax, nTardy = (9, 47, 2, 2)
+2.1 J2J1J3 TWT, wC, Lmax, nTardy = (13, 41, 4, 2)
+2.1 J2J3J1 TWT, wC, Lmax, nTardy = (11, 39, 5, 2)
+2.1 J3J1J2 TWT, wC, Lmax, nTardy = (8, 45, 2, 2)
+2.1 J3J2J1 TWT, wC, Lmax, nTardy = (5, 42, 5, 1)
+2.2 w1 = 1 [(5, 'J3J2J1'), (8, 'J3J1J2'), (9, 'J1J3J2')]
+2.2 w1 = 2 [(9, 'J1J3J2'), (10, 'J3J1J2'), (10, 'J3J2J1')]
+2.2 w1 = 3 [(9, 'J1J3J2'), (12, 'J1J2J3'), (12, 'J3J1J2')]
+2.2 w1 = 4 [(9, 'J1J3J2'), (12, 'J1J2J3'), (14, 'J3J1J2')]
+2.2 w1 = 5 [(9, 'J1J3J2'), (12, 'J1J2J3'), (16, 'J3J1J2')]
+2.2 w1 = 6 [(9, 'J1J3J2'), (12, 'J1J2J3'), (18, 'J2J1J3')]
+2.3 small MS [3, 1, 2] 8
+2.3 large MS [3, 1, 7, 4, 5, 2, 8, 6] 113 RPD 94.8
+2.4 swap (67, 4, [5, 7, 4, 8, 3, 6, 1, 2])
+2.4 swap (79, 0, [7, 5, 4, 8, 6, 3, 1, 2])
+2.4 swap (79, 1, [5, 4, 7, 8, 6, 3, 1, 2])
+2.4 swap (80, 3, [5, 7, 4, 6, 8, 3, 1, 2])
+2.4 swap (81, 6, [5, 7, 4, 8, 6, 3, 2, 1])
+2.4 swap (82, 2, [5, 7, 8, 4, 6, 3, 1, 2])
+2.4 swap (82, 5, [5, 7, 4, 8, 6, 1, 3, 2])
+2.5 NN from A ('ADBC', 27)
+2.5 NN from B ('BDAC', 27)
+2.5 NN from C ('CBDA', 27)
+2.5 NN from D ('DABC', 26)
+2.6 reverse DB -> ABDC 31
+2.6 reverse DBC -> ACBD 27
+2.6 reverse BC -> ADCB 26
+2.6 reverse BC -> ADCB 26
+2.6 reverse C -> ADBC 27
+2.8 n^3: 3999.999999999999  2^n: 59.93156856932417
+2.10 friend 68
+2.11 n=12: enum 9.98 s, Grover 3.51 s, HK 0.59 s
+2.11 n=16: enum 3.27e+05 s, Grover 635 s, HK 16.8 s
+2.11 n=20: enum 3.04e+10 s, Grover 1.94e+05 s, HK 419 s
+2.12 0.5 20 7 140 ms
+2.12 0.05 2 90 180 ms
+2.12 0.99 100 1 100 ms
+2.12 tie p >= 0.06367079117605856
+2.19 8 [(129, 'yes'), (64, 'yes'), (32, 'no'), (48, 'no'), (56, 'no'), (60, 'yes'), (58, 'yes'), (57, 'no')] value 58
+2.20 n=8: N=4.032e+04 classical 2.016e+04 Grover 1.577e+02
+2.20 n=12: N=4.790e+08 classical 2.395e+08 Grover 1.719e+04
+2.20 n=20: N=2.433e+18 classical 1.216e+18 Grover 1.225e+09

@@ -1,0 +1,6 @@
+12.18 fake_kingston level 1: (k, CZ, P(101)) [(1, 21, 0.693), (2, 45, 0.806)]  (22 s)
+12.18 fake_kingston level 3: (k, CZ, P(101)) [(1, 17, 0.704), (2, 39, 0.838)]  (37 s)
+12.18 fake_torino level 1: (k, CZ, P(101)) [(1, 21, 0.631), (2, 45, 0.729)]  (48 s)
+12.18 fake_torino level 3: (k, CZ, P(101)) [(1, 17, 0.679), (2, 39, 0.781)]  (60 s)
+13.21 fake_marrakesh: CZ 92, P(opt) 0.014, P(feasible) 0.092  (67 s)
+13.21 fake_torino: CZ 89, P(opt) 0.011, P(feasible) 0.077  (73 s)

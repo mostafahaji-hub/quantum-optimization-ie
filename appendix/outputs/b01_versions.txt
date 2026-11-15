@@ -1,0 +1,7 @@
+python             3.12.3
+numpy              2.5.4
+scipy              1.18.1
+matplotlib         3.11.2
+qiskit             2.5.2
+qiskit-aer         0.17.2
+qiskit-ibm-runtime 0.50.0

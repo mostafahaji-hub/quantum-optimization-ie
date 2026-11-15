@@ -1,0 +1,20 @@
+11.4 book 0010100000010100 Qiskit 0010100000010100
+11.6 4 jobs feasible 24 time 0.33 s, 25 bits about 167 s
+11.7 QUBO 52.0 cost 12.0
+11.8 000010100 40.0 cost 0.0
+11.8 100010000 40.0 cost 0.0
+11.8 100010100 40.0 cost 0.0
+11.8 010100000 41.0 cost 1.0
+11.8 010000100 42.0 cost 2.0
+11.9 lam 2 min feasible 5.0 min infeasible 4.0
+11.9 lam 100 min feasible 5.0 min infeasible 200.0
+11.13 J07 label ZIIIIIIZI 0.75
+11.13 search {'IZIIIIIIZ': np.float64(0.75)}
+11.16 max difference over 20 strings 0.0
+11.15 P(pass with 20 random strings) 2.7505878988833634e-21
+11.17 feasible shots 9 [('ADBCA', 4), ('ABDCA', 3), ('ADCBA', 2)] mean length 28.11
+11.18 FakeFez uniform: mean energy 133.0 feasible shots 7 (9 s)
+11.19 multilinear coefficients (code bit 0 = leftmost): {(): 12, (0,): -4, (1,): 1, (2,): -3, (0, 1): 11, (1, 2): 1, (0, 1, 2): 2}
+11.20 location: qubits 12 terms 30 max error 0.0 0.0 s
+11.21 truck: qubits 13 terms 92 max error 0.0 0.0 s
+11.22 [('100010001', np.float64(26.0), 'ABCDA'), ('001010100', np.float64(26.5), 'ADCBA'), ('010100001', np.float64(27.0), 'ACBDA')]

@@ -1,0 +1,6 @@
+9.9 SQA without springs: mean 26.75 (with springs 27.72)  (1 s)
+9.14 Taguchi (10, 1.0, 10): mean 26.23; guess (20, 0.05, 20): mean 28.84; Wilcoxon p = 0.0000  (6 s)
+9.15 main effects [np.float64(-28.906), np.float64(-29.752), np.float64(-32.632)] best 4
+9.15 main effects [np.float64(-28.659), np.float64(-30.602), np.float64(-32.028)] best 0.5
+9.15 main effects [np.float64(-31.778), np.float64(-30.642), np.float64(-28.87)] best 50.0
+9.15 tuned SQA [4, 0.5, 50.0]: mean 27.61 hits 0/20; SA mean 26.31 hits 4/20; Wilcoxon p = 0.0080  (15 s)

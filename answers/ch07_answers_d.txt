@@ -1,0 +1,2 @@
+7.22 tau 0.0: best found 29.4; KA 5/10 mean 30.1 | QEA 1/10 mean 34.3 | GA 2/10 mean 32.0  (1 s)
+7.22 tau 0.8: best found 40.6; KA 0/10 mean 44.7 | QEA 1/10 mean 45.4 | GA 3/10 mean 43.9  (3 s)

@@ -1,0 +1,9 @@
+9.16 nPop: mean S/N by level [np.float64(-44.389), np.float64(-44.372), np.float64(-44.413)] best 20
+9.16 PN1: mean S/N by level [np.float64(-44.524), np.float64(-44.339), np.float64(-44.311)] best 0.3
+9.16 PN2: mean S/N by level [np.float64(-44.41), np.float64(-44.344), np.float64(-44.421)] best 0.4
+9.16 NSwirl: mean S/N by level [np.float64(-44.425), np.float64(-44.399), np.float64(-44.351)] best 10
+9.16 (2 s)
+9.22 SA: mean 176.7 optimum 170 hits 10/20
+9.22 SQA: mean 196.8 optimum 170 hits 1/20
+9.22 KA: mean 199.4 optimum 170 hits 1/20
+9.22 Friedman p 0.00014210073379021485 (4 s)

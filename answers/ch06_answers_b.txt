@@ -1,0 +1,9 @@
+6.9 capacity 68: optimum 198 (2^20 enumeration), greedy 192, QEA best 198 mean 197.6, optimum hits 9/10
+6.14 k=2: runs [58, 60, 58, 60, 60, 58, 60, 58, 58, 58] mean 58.8
+6.14 k=3: runs [58, 58, 58, 58, 58, 58, 58, 58, 58, 60] mean 58.2
+6.14 k=5: runs [58, 58, 59, 58, 58, 58, 58, 58, 58, 58] mean 58.1
+6.15 descending keys: runs [58, 58, 58, 58, 58, 58, 58, 58, 59, 58] mean 58.1
+6.16 budget 1000: QEA mean 248.5 best 221; random mean 390.6 best 349
+6.16 budget 10000: QEA mean 175.4 best 164; random mean 329.6 best 309
+6.17 QEA -> +adjacent swaps: [(189, 189), (209, 175), (177, 177), (191, 191), (180, 165), (171, 169), (164, 164), (176, 164), (165, 164), (184, 177)] mean 180.6 -> 173.5
+6.18 15 cities: NN 362.5, NN+2opt 287.7, QEA best 308.8 mean 363.5
