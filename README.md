@@ -1,6 +1,6 @@
-# Quantum Optimization for Industrial Engineers — Companion Code
+# Quantum Optimization for Industrial Engineers and Managers — Companion Code
 
-Code for the book *Quantum Optimization for Industrial Engineers: A Step-by-Step Journey from Quantum Ideas to Metaheuristics and IBM Quantum Computers*, by Mostafa Hajiaghaei-Keshteli and Fatemeh Gholian-Jouybari.
+Code for the book *Quantum Optimization for Industrial Engineers and Managers: A Step-by-Step Journey from Quantum Ideas to Metaheuristics and IBM Quantum Computers*, by Mostafa Hajiaghaei-Keshteli and Fatemeh Gholian-Jouybari.
 
 Every number, table, and figure printed in the book is produced by a script in this repository. Each `chapterNN/` folder holds the scripts of that chapter (`listing_*.py`, `ex*.py`, `exNN_*.py`), the shared modules it imports, and, from Chapter 10 on, the saved outputs (`outputs/*.txt`) and the figure scripts (`fig/`).
 
